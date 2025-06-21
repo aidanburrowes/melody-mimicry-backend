@@ -1,0 +1,12 @@
+creds.py
+*.mp3
+*.wav
+*.pth
+*.pt
+/split_audio/
+/models/
+/__pycache__/
+venv/
+..bfg-report/
+*__pycache__/
+*.pyc
